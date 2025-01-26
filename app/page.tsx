@@ -15,7 +15,7 @@ import { Tabs } from '@/components/css-modules/sections/tabs/tabs';
 
 export default function Home() {
   return (
-    <Container data-full-width>
+    <Container isFullWidth>
       <Hero
         title="Welcome to Our Platform"
         subtitle="Experience the difference with our modern, performant components"
